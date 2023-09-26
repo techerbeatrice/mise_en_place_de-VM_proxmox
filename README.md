@@ -21,9 +21,6 @@ ___
 
 ![image](https://github.com/techerbeatrice/mise_en_place_de-VM_proxmox/assets/138071140/2acf0ae1-12e8-4bee-a4e4-bbb81a97b2cc)
 
-
-
-![image](https://github.com/techerbeatrice/mise_en_place_de-VM_proxmox/assets/138071140/3795509e-c6af-4d89-97a5-18faaf706c6d)
 ___
 
 **Démarrage de la VM**   
