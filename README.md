@@ -13,10 +13,21 @@ ___
 ![image](https://github.com/techerbeatrice/mise_en_place_de-VM_proxmox/assets/138071140/c7badb15-dbd3-42d7-863b-2cd538a19b54)
 ___
 
+**créer une VM**  
+
+![image](https://github.com/techerbeatrice/mise_en_place_de-VM_proxmox/assets/138071140/c2c210d9-03f7-4e6d-87c2-3a06317ffafe)
+
+![image](https://github.com/techerbeatrice/mise_en_place_de-VM_proxmox/assets/138071140/300cc6f4-1a24-43ac-b96b-a9bc7bab9dea)
+
+![image](https://github.com/techerbeatrice/mise_en_place_de-VM_proxmox/assets/138071140/2acf0ae1-12e8-4bee-a4e4-bbb81a97b2cc)
+
+
+
 ![image](https://github.com/techerbeatrice/mise_en_place_de-VM_proxmox/assets/138071140/3795509e-c6af-4d89-97a5-18faaf706c6d)
 ___
 
 **Démarrage de la VM**   
 
-![image](https://github.com/techerbeatrice/mise_en_place_de-VM_proxmox/assets/138071140/b2ab7450-decf-4ede-8f8b-446c87bf58e0)
+![image](https://github.com/techerbeatrice/mise_en_place_de-VM_proxmox/assets/138071140/d9d8c724-bc9c-40ed-aa31-8caa9a9c418f)
+
 
