@@ -33,4 +33,5 @@ ____
 
 ![image](https://github.com/techerbeatrice/mise_en_place_de-VM_proxmox/assets/138071140/e8238408-3513-44c0-801c-61f6ca4847fc)
 
+![image](https://github.com/techerbeatrice/mise_en_place_de-VM_proxmox/assets/138071140/14b3956c-1780-4754-854c-b3d27961b3ab)
 
