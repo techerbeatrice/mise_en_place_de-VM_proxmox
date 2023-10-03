@@ -35,3 +35,6 @@ ____
 
 ![image](https://github.com/techerbeatrice/mise_en_place_de-VM_proxmox/assets/138071140/14b3956c-1780-4754-854c-b3d27961b3ab)
 
+## **Méthode à partir d'un template**  
+
+![image](https://github.com/techerbeatrice/mise_en_place_de-VM_proxmox/assets/138071140/9143bdd0-1039-427c-a775-8d93f3e64303)
