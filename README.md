@@ -27,4 +27,10 @@ ___
 
 ![image](https://github.com/techerbeatrice/mise_en_place_de-VM_proxmox/assets/138071140/d9d8c724-bc9c-40ed-aa31-8caa9a9c418f)
 
+____
+
+## **Méthode à partir d'une autre VM**  
+
+![image](https://github.com/techerbeatrice/mise_en_place_de-VM_proxmox/assets/138071140/e8238408-3513-44c0-801c-61f6ca4847fc)
+
 
